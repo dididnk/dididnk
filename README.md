@@ -8,6 +8,6 @@
 - **IOT** : Arduino, C, C++, Cloud IOT, IOT Remote
 - **Mobile** : Flutter, Kotlin, C#/Xamarin
 - **BDD** : SQL, SQLite, MySQL, PostgreSQL, MariaDB, MongoDB, Neo4J
-- **Architecture logicielle** : MVC, MVVM, Oignon (.NET), Microservices
+- **Architecture logicielle** : MVC, Oignon (.NET), Microservices, CQRS
 - **Environnements SE** : Windows et Ubuntu
 - **Autres** : Tests unitaires, Pack Office, Git, Webservices, API REST, Design Pattern, Kubernetes & Docker
