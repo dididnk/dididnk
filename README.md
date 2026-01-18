@@ -1,12 +1,10 @@
 # Bonjour ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Je m'appelle Emmanuel NGBAME
 
-## Développeur Fullstack | Ingénieur Cloud & Cybersécurité | Futur DevSecOps
+## Développeur COBOL Mainframe | Fullstack | Ingénieur Cloud & Cybersécurité
 
-Passionné par la technologie, j'ai à cœur de créer des solutions innovantes, sécurisées et performantes. Fort d'une expérience riche en développement logiciel et en gestion de projets complexes, je suis convaincu que la clé du succès réside dans l’alliance entre rigueur technique et créativité. Avec une expertise qui couvre le fullstack, le cloud computing et la cybersécurité, je m'engage à concevoir des applications robustes et des architectures optimisées, tout en garantissant une sécurité adaptée aux défis actuels.
+Développeur Mainframe COBOL et .NET C#, spécialisé dans les environnements applicatifs critiques et le RUN. Formé au développement sur z/OS (DB2, JCL, CICS), avec une solide culture de la qualité, de la fiabilité et de la production. J’interviens avec rigueur sur des systèmes complexes à fort enjeu métier, dans des contextes Agile et collaboratifs.
 
-- 🌍  Je suis basé à Strasbourg
 - 🖥️  Voir mon portfolio sur [Emmanuel NGBAME](http://dididnk.github.io/Portfolio/)
-- 🧠  J'apprends la Cybersécurité
 
 ### Compétences
 
